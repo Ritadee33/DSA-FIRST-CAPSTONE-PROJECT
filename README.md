@@ -13,3 +13,11 @@ Microsoft Excel
 * For data cleaning
 * For data analysis
 * For creating report
+
+#### Data cleaning 
+In the data cleaning , we performed the following actions:
+* Data inspection
+* Data cleaning
+
+#### Exploratory Data Analysis
+This process involved the exploring of the data to answer some question about the data which includes
