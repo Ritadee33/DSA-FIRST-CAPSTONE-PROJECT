@@ -38,5 +38,3 @@ This process involved the exploring of the data to answer some question about th
 
 #### Result findings
 
-
-
