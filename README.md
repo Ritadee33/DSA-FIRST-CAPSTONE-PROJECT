@@ -39,3 +39,16 @@ This process involved the exploring of the data to answer some question about th
 #### Result findings
 
 ![AMAZON 1](https://github.com/user-attachments/assets/63555f5e-c79f-49e9-aa0b-a7484cae4c54)
+
+![AMAZON 2](https://github.com/user-attachments/assets/8e7a3593-6109-40e2-b60e-96417df79327)
+
+
+
+![PIVPT TABLE 1](https://github.com/user-attachments/assets/363cc364-4ce7-46e1-87df-c3b0392e8a8c)
+
+
+
+
+![PIVOT TABLE 2](https://github.com/user-attachments/assets/5eddc61d-30b1-4f77-aa9f-d4e40c42cd31)
+
+
