@@ -38,3 +38,4 @@ This process involved the exploring of the data to answer some question about th
 
 #### Result findings
 
+![AMAZON 1](https://github.com/user-attachments/assets/63555f5e-c79f-49e9-aa0b-a7484cae4c54)
