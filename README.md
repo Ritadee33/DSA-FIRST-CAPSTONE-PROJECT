@@ -35,3 +35,8 @@ This process involved the exploring of the data to answer some question about th
 * Which categories have product with the highest discount
 * Identify the top 5 products in terms of rating and number of reviews combined
 
+
+#### Result findings
+
+
+
