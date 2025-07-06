@@ -52,3 +52,9 @@ This process involved the exploring of the data to answer some question about th
 ![PIVOT TABLE 2](https://github.com/user-attachments/assets/5eddc61d-30b1-4f77-aa9f-d4e40c42cd31)
 
 
+
+
+
+![PIVOT TABLE 3](https://github.com/user-attachments/assets/9c7d25cf-dd1f-4163-9332-78b5751fc309)
+
+
