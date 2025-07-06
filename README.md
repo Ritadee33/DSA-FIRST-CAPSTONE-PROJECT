@@ -20,4 +20,18 @@ In the data cleaning , we performed the following actions:
 * Data cleaning
 
 #### Exploratory Data Analysis
-This process involved the exploring of the data to answer some question about the data which includes
+This process involved the exploring of the data to answer some question about the data which includes:
+* what is the average discount percentage by product category
+* How many products are listed under each category
+* What is the highest number of reviews by each catagory
+* Which product have the highest avarage rating
+* What is the average highest price verses the discounted price by category
+* Which product have the highest number of review
+* How many product have a discount of 50% and more
+* What is the distribution of product rating
+* What is the number of unique product per price range bucket
+* How does the rating relate to the level of discount
+* How many product have fewer than 1000 reviews
+* Which categories have product with the highest discount
+* Identify the top 5 products in terms of rating and number of reviews combined
+
