@@ -45,7 +45,7 @@ This process involved the exploring of the data to answer some question about th
 
 #### Recommendation
 * More cost should be incurred on Electronics as this has a great potential revenue
-* 
+* providing more discount on categories with low rating count is a strategy the can help improve the consumers review and ratings of the products
 
 ![AMAZON 1](https://github.com/user-attachments/assets/63555f5e-c79f-49e9-aa0b-a7484cae4c54)
 
