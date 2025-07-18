@@ -9,7 +9,7 @@ This analysis project aims to provide insight that can guide product improvement
 The primary source of the data is unknown but the secondary source of the data is DSA-INCUBATOR HUB and as such cannot be downloaded freely online 
 
 #### Tool used 
-Microsoft Excel
+Microsoft Excel [Download Here]
 * For data cleaning
 * For data analysis
 * For creating report
@@ -37,6 +37,11 @@ This process involved the exploring of the data to answer some question about th
 
 
 #### Result findings
+* Electronices is the product with the highest rating count
+* Computer and Accessories has the highest average discount percentage
+* categorty with the highest products is Electronics
+* Electronices has the highest potential revenue
+* Computer and Accessories is the product category with the highest discount
 
 ![AMAZON 1](https://github.com/user-attachments/assets/63555f5e-c79f-49e9-aa0b-a7484cae4c54)
 
