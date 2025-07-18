@@ -42,10 +42,13 @@ This process involved the exploring of the data to answer some question about th
 * category with the highest products is Electronics
 * Electronices has the highest potential revenue
 * Computer and Accessories is the product category with the highest discount
+* products with 50% and more is 695
 
 #### Recommendation
 * More cost should be incurred on Electronics as this has a great potential revenue and has proven overtime to be the top category with the highest ratings
 * providing more discount on categories with low rating count is a strategy the can help improve the consumers review and ratings of the products
+* products with low discounts should also be reviewed and more discount should be applied
+* 
 
 ![AMAZON 1](https://github.com/user-attachments/assets/63555f5e-c79f-49e9-aa0b-a7484cae4c54)
 
