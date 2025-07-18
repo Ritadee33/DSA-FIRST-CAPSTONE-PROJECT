@@ -69,4 +69,19 @@ This process involved the exploring of the data to answer some question about th
 
 ![PIVOT TABLE 3](https://github.com/user-attachments/assets/9c7d25cf-dd1f-4163-9332-78b5751fc309)
 
+#### Result Findings
+* Electronices product category has the highest discounted price and customers are always open purchasing more free or almost free products
+ hence the increase in the rating count of this product category
+* Computer and Accessories has the highest average discount percentage
+* Category with the highest products is Electronics
+* Electronices has the highest potential revenue
+* Computer and Accessories is the product category with the highest discount
+* products with 50% and more is 695
+
+#### Recommendation
+* KMS should invest into electrinics product category as this has a great potential revenue and has proven overtime to be the top category with the highest ratings
+* Providing more discount on categories with low rating count is a strategy the can help improve the consumers review and ratings of the products
+* Products with discounts below 50% should also be reviewed and more discount should be applied to these products
+
+
 
